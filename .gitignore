@@ -1,5 +1,5 @@
 *.sln
 *.csproj
-/Libray/
+/Library/
 /Temp/
 *.swp
